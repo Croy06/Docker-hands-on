@@ -1,0 +1,7 @@
+
+Summary of data in 'data/normal.txt'
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-3.0103 -0.2461  0.4475  0.4571  1.1298  3.5371 
+
+Your R version is 4.2.2 
+
